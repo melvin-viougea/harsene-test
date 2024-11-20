@@ -1,16 +1,5 @@
-# Node modules
-node_modules/
-
-# Logs
-logs/
-*.log
-
 # Environment files
 .env
-
-# Build files
-dist/
-build/
 
 # Editor/IDE settings
 .vscode/
